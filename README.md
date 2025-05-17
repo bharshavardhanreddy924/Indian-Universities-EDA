@@ -1,4 +1,4 @@
-# 🇮🇳 Indian-Universities-EDA
+# Indian-Universities-EDA
 
 **Exploratory Data Analysis of Indian Universities Dataset**
 
